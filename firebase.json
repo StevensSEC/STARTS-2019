@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "./starts-2019/build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
